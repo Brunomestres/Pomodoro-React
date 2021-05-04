@@ -1,3 +1,6 @@
+# Pomodoro
+Esse app tem o objetivo de simular a técnica [Pomodoro](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
